@@ -71,3 +71,7 @@ Crashes are serious case of negligence and them happening in the Childen safe zo
 **Data Exploration Image -- <a href='https://github.com/Psharma2193/Individual-Project---First-Version/blob/master/DI_4-DEX.PNG' rel='nofollow'>Data Exploration</a>** 
 
 **Visualization -- <a href='https://github.com/Psharma2193/Individual-Project---First-Version/blob/master/DI_4.PNG' rel='nofollow'>Data Insight 4</a>** 
+
+
+### Conclusion
+Chicago is widely known for its high crime rate. Handling speed & traffic violations can become secondary for authorities. After looking at the data the authorities can identify the areas that need strict law enforcement like regular police patrolling and ticketing policy. The dataset is from 2014 - 2019 and it clearly speaks that installation of Speed camera in 2014 has led to decline in violation cases over the years. The citizen may have become conscious of their actions as they are at higher risk of getting caught by authorities. This is in a way encouraging and positive signal for authorities to increase cameras in children safety zone to furthermore decrease violations. 
